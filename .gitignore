@@ -1,11 +1,11 @@
 /model
 /data
 /test_pics
-.jpg
-.png
+*.jpg
+*.png
 
 
 /nonescape_env
 /__pycache__
 /benchmark_results
-.pyc
+*.pyc
